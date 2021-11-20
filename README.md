@@ -1,3 +1,5 @@
+Thi benchmarks swc-loader VS ts-loader + babel-loader
+
 To start the benchmark
 
 ```
