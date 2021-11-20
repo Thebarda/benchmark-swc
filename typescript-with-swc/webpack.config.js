@@ -23,8 +23,13 @@ module.exports = {
           {
             loader: 'swc-loader',
             options: {
-              env: { mode: 'usage' },
               jsc: {
+                target: 'es3',
+                minify: {
+                  compress: {
+                    unused: true
+                  }
+                },
                 parser: {
                   syntax: 'typescript',
                   tsx: true,
