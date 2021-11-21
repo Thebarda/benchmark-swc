@@ -458,14 +458,9 @@
   "resolved" "https://registry.npmjs.org/@popperjs/core/-/core-2.10.2.tgz"
   "version" "2.10.2"
 
-"@swc/core-linux-x64-gnu@^1.2.111":
-  "integrity" "sha512-jJaKxsy7ePZ1dB+LQKAFNsprYMeeMeOaoE7o3fyOZba+FBJ1iR8EgZg68OJLmqawHpBk/pn2PefaJXejUQyxjA=="
-  "resolved" "https://registry.npmjs.org/@swc/core-linux-x64-gnu/-/core-linux-x64-gnu-1.2.111.tgz"
-  "version" "1.2.111"
-
-"@swc/core-linux-x64-musl@^1.2.111":
-  "integrity" "sha512-JNSOePB9GqLOMpVSm2hii2ApzKaMYdbifCBoefl20mWNtZ/K3TLSOIlRdpEZkS4Str9p3WzksTj/gqYiTu3Ygg=="
-  "resolved" "https://registry.npmjs.org/@swc/core-linux-x64-musl/-/core-linux-x64-musl-1.2.111.tgz"
+"@swc/core-darwin-x64@^1.2.111":
+  "integrity" "sha512-C0K7pLWG5VdGHBgdOFG4pU4d3kCLCyFcJ6DzRpkFzsWfdxekqPatNfrhkPoK6g1xmYRu6wDN91KTszBlvHXHYg=="
+  "resolved" "https://registry.npmjs.org/@swc/core-darwin-x64/-/core-darwin-x64-1.2.111.tgz"
   "version" "1.2.111"
 
 "@swc/core@^1.2.52":
@@ -1670,6 +1665,11 @@
   "integrity" "sha1-FQStJSMVjKpA20onh8sBQRmU6k8="
   "resolved" "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
+
+"fsevents@~2.3.2":
+  "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
+  "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
+  "version" "2.3.2"
 
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="

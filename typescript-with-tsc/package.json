@@ -39,7 +39,6 @@
   },
   "scripts": {
     "start": "webpack serve --hot",
-    "build": "cross-env NODE_ENV=production webpack",
-    "postinstall": "bun bun ./src/index.tsx"
+    "build": "cross-env NODE_ENV=production webpack"
   }
 }
